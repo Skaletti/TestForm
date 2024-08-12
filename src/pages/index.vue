@@ -1,5 +1,6 @@
 <template>
-  <HelloWorld />
+  <account-form />
+<!--  <HelloWorld />-->
 </template>
 
 <script lang="ts" setup>
